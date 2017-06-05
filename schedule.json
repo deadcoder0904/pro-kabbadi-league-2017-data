@@ -1,0 +1,450 @@
+[
+  {
+    "date": "25th June",
+    "time": "20:00",
+    "no": "Match 1",
+    "team1": "Puneri Paltan",
+    "team2": "Telugu Titans",
+    "venue": "Shree Shiv Chhatrapati Sports Complex,Pune"
+  },
+  {
+    "date": "25th June",
+    "time": "21:00",
+    "no": "Match 2",
+    "team1": "U Mumba",
+    "team2": "Jaipur Pink Panthers",
+    "venue": "Shree Shiv Chhatrapati Sports Complex,Pune"
+  },
+  {
+    "date": "26th June",
+    "time": "20:00",
+    "no": "Match 3",
+    "team1": "Bengaluru Bulls",
+    "team2": "Bengal Warriors",
+    "venue": "Shree Shiv Chhatrapati Sports Complex,Pune"
+  },
+  {
+    "date": "26th June",
+    "time": "21:00",
+    "no": "Match 4",
+    "team1": "Puneri Paltan",
+    "team2": "U Mumba",
+    "venue": "Shree Shiv Chhatrapati Sports Complex,Pune"
+  },
+  {
+    "date": "27<sup>th</sup> June",
+    "time": "20:00",
+    "no": "Match 5",
+    "team1": "Bengal Warriors",
+    "team2": "Dabang Delhi",
+    "venue": "DOME@NSCI SVP Stadium, Mumbai"
+  },
+  {
+    "date": "27th June",
+    "time": "21:00",
+    "no": "Match 6",
+    "team1": "Puneri Paltan",
+    "team2": "Patna Pirates",
+    "venue": "DOME@NSCI SVP Stadium, Mumbai"
+  },
+  {
+    "date": "28th June",
+    "time": "20:00",
+    "no": "Match 7",
+    "team1": "Puneri Paltan",
+    "team2": "Dabang Delhi",
+    "venue": "DOME@NSCI SVP Stadium, Mumba"
+  },
+  {
+    "date": "29th June",
+    "time": "20:00",
+    "no": "Match 8",
+    "team1": "Jaipur Pink Panthers",
+    "team2": "Telugu Titans",
+    "venue": "Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "date": "29th June",
+    "time": "21:00",
+    "no": "Match 9",
+    "team1": "U Mumba",
+    "team2": "Patna Pirates",
+    "venue": "Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "date": "30th June",
+    "time": "20:00",
+    "no": "Match 10",
+    "team1": "Jaipur Pink Panthers",
+    "team2": "Bengaluru",
+    "venue": "Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "date": "1st July",
+    "time": "20:00",
+    "no": "Match 11",
+    "team1": "U Mumba",
+    "team2": "Dabang Delhi",
+    "venue": "Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "date": "1st July",
+    "time": "21:00",
+    "no": "Match 12",
+    "team1": "Jaipur Pink Panthers",
+    "team2": "Bengal Warriors",
+    "venue": "Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "date": "2nd July",
+    "time": "20:00",
+    "no": "Match 13",
+    "team1": "Dabang Delhi",
+    "team2": "Bengaluru Bulls",
+    "venue": "Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "date": "2nd July",
+    "time": "21:00",
+    "no": "Match 14",
+    "team1": "Jaipur Pink Panthers",
+    "team2": "Puneri Paltan",
+    "venue": "Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "date": "3rd July",
+    "time": "20:00",
+    "no": "Match 15",
+    "team1": "Telugu Titans",
+    "team2": "Patna Pirates",
+    "venue": "Gachibowli Indoor Stadium, Hyderabad"
+  },
+  {
+    "date": "3rd July",
+    "time": "21:00",
+    "no": "Match 16",
+    "team1": "Bengal Warriors",
+    "team2": "U Mumba",
+    "venue": "Gachibowli Indoor Stadium, Hyderabad"
+  },
+  {
+    "date": "4th July",
+    "time": "20:00",
+    "no": "Match 17",
+    "team1": "Bengaluru Bulls",
+    "team2": "Puneri Paltan",
+    "venue": "Gachibowli Indoor Stadium, Hyderabad"
+  },
+  {
+    "date": "4th July",
+    "time": "21:00",
+    "no": "Match 18",
+    "team1": "Telugu Titans",
+    "team2": "Bengal Warriors",
+    "venue": "Gachibowli Indoor Stadium, Hyderabad"
+  },
+  {
+    "date": "5th July",
+    "time": "20:00",
+    "no": "Match 19",
+    "team1": "Telugu Titans",
+    "team2": "Bengaluru Bulls",
+    "venue": "Gachibowli Indoor Stadium, Hyderabad"
+  },
+  {
+    "date": "6th July",
+    "time": "20:00",
+    "no": "Match 20",
+    "team1": "Dabang Delhi VsJaipur Pink Panthers",
+    "team2": "",
+    "venue": "Gachibowli Indoor Stadium, Hyderabad"
+  },
+  {
+    "date": "6th July",
+    "time": "21:00",
+    "no": "Match 21",
+    "team1": "Telugu Titans",
+    "team2": "U Mumba",
+    "venue": "Gachibowli Indoor Stadium, Hyderabad"
+  },
+  {
+    "date": "7th July",
+    "time": "20:00",
+    "no": "Match 22",
+    "team1": "Patna Pirates",
+    "team2": "Bengaluru Bulls",
+    "venue": "Patliputra Sports Complex, Patna"
+  },
+  {
+    "date": "8th July",
+    "time": "20:00",
+    "no": "Match 23",
+    "team1": "Bengaluru Bulls",
+    "team2": "U Mumba",
+    "venue": "Patliputra Sports Complex, Patna"
+  },
+  {
+    "date": "8th July",
+    "time": "21:00",
+    "no": "Match 24",
+    "team1": "Patna Pirates",
+    "team2": "Bengal Warriors 24th",
+    "venue": "Patliputra Sports Complex, Patna"
+  },
+  {
+    "date": "9th July",
+    "time": "20:00",
+    "no": "Match 25",
+    "team1": "Bengal Warriors",
+    "team2": "Puneri Paltan 25th",
+    "venue": "Patliputra Sports Complex, Patna"
+  },
+  {
+    "date": "9th July",
+    "time": "21:00",
+    "no": "Match 26",
+    "team1": "Patna Pirates",
+    "team2": "Dabang Delhi 26th match",
+    "venue": "Patliputra Sports Complex, Patna"
+  },
+  {
+    "date": "10th July",
+    "time": "20:00",
+    "no": "Match 27",
+    "team1": "Dabang Delhi",
+    "team2": "Telugu Titans 27th",
+    "venue": "Patliputra Sports Complex, Patna"
+  },
+  {
+    "date": "10th July",
+    "time": "21:00",
+    "no": "Match 28",
+    "team1": "Patna Pirates",
+    "team2": "Jaipur Pink Panthers 28th",
+    "venue": "Patliputra Sports Complex, Patna"
+  },
+  {
+    "date": "12th July",
+    "time": "20:00",
+    "no": "Match 29",
+    "team1": "Bengaluru Bulls",
+    "team2": "Telugu Titans 29th",
+    "venue": "Sree Kanteerava Stadium, Bengaluru"
+  },
+  {
+    "date": "12th July",
+    "time": "21:00",
+    "no": "Match 30",
+    "team1": "Puneri Paltan",
+    "team2": "Bengal Warriors 30th",
+    "venue": "Sree Kanteerava Stadium, Bengaluru"
+  },
+  {
+    "date": "13th July",
+    "time": "20:00",
+    "no": "Match 31",
+    "team1": "Bengaluru Bulls",
+    "team2": "Jaipur Pink Panthers 31st",
+    "venue": "Sree Kanteerava Stadium, Bengaluru"
+  },
+  {
+    "date": "14th July",
+    "time": "20:00",
+    "no": "Match 32",
+    "team1": "Jaipur Pink Panthers",
+    "team2": "U Mumba 32nd Match",
+    "venue": "Sree Kanteerava Stadium, Bengaluru"
+  },
+  {
+    "date": "14th July",
+    "time": "21:00",
+    "no": "Match 33",
+    "team1": "Bengaluru Bulls",
+    "team2": "Patna Pirates 33rd",
+    "venue": "Sree Kanteerava Stadium, Bengaluru"
+  },
+  {
+    "date": "15th July",
+    "time": "20:00",
+    "no": "Match 34",
+    "team1": "Telugu Titans",
+    "team2": "Puneri Paltan 34th Match",
+    "venue": "Sree Kanteerava Stadium, Bengaluru"
+  },
+  {
+    "date": "15th July",
+    "time": "21:00",
+    "no": "Match 35",
+    "team1": "Bengaluru Bulls",
+    "team2": "Dabang Delhi 35th",
+    "venue": "Sree Kanteerava Stadium, Bengaluru"
+  },
+  {
+    "date": "16th July",
+    "time": "20:00",
+    "no": "Match 36",
+    "team1": "Bengal Warriors",
+    "team2": "Jaipur Pink Panthers 36th",
+    "venue": "Netaji Subhash Chandra Bose Indoor Stadium, Kolkata"
+  },
+  {
+    "date": "16th July",
+    "time": "21:00",
+    "no": "Match 37",
+    "team1": "Patna Pirates",
+    "team2": "U Mumba 37th",
+    "venue": "Netaji Subhash Chandra Bose Indoor Stadium, Kolkata"
+  },
+  {
+    "date": "17th July",
+    "time": "20:00",
+    "no": "Match 38",
+    "team1": "Puneri Paltan",
+    "team2": "Jaipur Pink Panthers",
+    "venue": "Netaji Subhash Chandra Bose Indoor Stadium, Kolkata"
+  },
+  {
+    "date": "17th July",
+    "time": "21:00",
+    "no": "Match 39",
+    "team1": "Bengal Warriors",
+    "team2": "Patna Pirates",
+    "venue": "Netaji Subhash Chandra Bose Indoor Stadium, Kolkata"
+  },
+  {
+    "date": "18th July",
+    "time": "20:00",
+    "no": "Match 40",
+    "team1": "Bengal Warriors",
+    "team2": "Telugu Titans",
+    "venue": "Netaji Subhash Chandra Bose Indoor Stadium, Kolkata"
+  },
+  {
+    "date": "19th July",
+    "time": "20:00",
+    "no": "Match 41",
+    "team1": "Telugu Titans",
+    "team2": "Dabang Delhi",
+    "venue": "Netaji Subhash Chandra Bose Indoor Stadium, Kolkata"
+  },
+  {
+    "date": "19th July",
+    "time": "21:00",
+    "no": "Match 42",
+    "team1": "Bengal Warriors",
+    "team2": "Bengluru Bulls",
+    "venue": "Netaji Subhash Chandra Bose Indoor Stadium, Kolkata"
+  },
+  {
+    "date": "20th July",
+    "time": "20:00",
+    "no": "Match 43",
+    "team1": "U Mumba",
+    "team2": "Puneri Paltan",
+    "venue": "DOME@NSCI SVP Stadium, Mumbai"
+  },
+  {
+    "date": "21th&nbsp;July",
+    "time": "20:00",
+    "no": "Match 44",
+    "team1": "Jaipur Pink Panthers",
+    "team2": "Dabang Delhi",
+    "venue": "DOME@NSCI SVP Stadium, Mumbai"
+  },
+  {
+    "date": "21th&nbsp;July",
+    "time": "21:00",
+    "no": "Match 45",
+    "team1": "U Mumba",
+    "team2": "Telugu Titans",
+    "venue": "DOME@NSCI SVP Stadium, Mumbai"
+  },
+  {
+    "date": "22nd July",
+    "time": "20:00",
+    "no": "Match 46",
+    "team1": "Jaipur Pink Panthers",
+    "team2": "Patna Pirates",
+    "venue": "DOME@NSCI SVP Stadium, Mumbai"
+  },
+  {
+    "date": "22nd July",
+    "time": "21:00",
+    "no": "Match 47",
+    "team1": "U Mumba",
+    "team2": "Bengal Warriors",
+    "venue": "DOME@NSCI SVP Stadium, Mumbai"
+  },
+  {
+    "date": "23rd July",
+    "time": "20:00",
+    "no": "Match 48",
+    "team1": "Patna Pirates",
+    "team2": "Puneri Paltans",
+    "venue": "DOME@NSCI SVP Stadium, Mumbai"
+  },
+  {
+    "date": "23rd July",
+    "time": "21:00",
+    "no": "Match 49",
+    "team1": "U Mumba",
+    "team2": "Bengaluru Bulls",
+    "venue": "DOME@NSCI SVP Stadium, Mumbai"
+  },
+  {
+    "date": "24th July",
+    "time": "20:00",
+    "no": "Match 50",
+    "team1": "Dabang Delhi",
+    "team2": "Bengal Warriors",
+    "venue": "Thyagaraj Sports Complex, Delhi"
+  },
+  {
+    "date": "24th July",
+    "time": "21:00",
+    "no": "Match 51",
+    "team1": "Telugu Titans",
+    "team2": "Jaipur Pink Panthers",
+    "venue": "Thyagaraj Sports Complex, Delhi"
+  },
+  {
+    "date": "25th July",
+    "time": "20:00",
+    "no": "Match 52",
+    "team1": "Dabang Delhi",
+    "team2": "Patna Pirates",
+    "venue": "Thyagaraj Sports Complex, Delhi"
+  },
+  {
+    "date": "26th July",
+    "time": "20:00",
+    "no": "Match 53",
+    "team1": "Patna Pirates",
+    "team2": "Telugu Titans",
+    "venue": "Thyagaraj Sports Complex, Delhi"
+  },
+  {
+    "date": "26th July",
+    "time": "21:00",
+    "no": "Match 54",
+    "team1": "Dabang Delhi",
+    "team2": "Puneri Paltan",
+    "venue": "Thyagaraj Sports Complex, Delhi"
+  },
+  {
+    "date": "27th July",
+    "time": "20:00",
+    "no": "Match 55",
+    "team1": "Puneri Paltan",
+    "team2": "Bengaluru Bulls",
+    "venue": "Thyagaraj Sports Complex, Delhi"
+  },
+  {
+    "date": "27th July",
+    "time": "21:00",
+    "no": "Match 56",
+    "team1": "Dabang Delhi",
+    "team2": "U Mumba",
+    "venue": "Thyagaraj Sports Complex, Delhi"
+  }
+]
